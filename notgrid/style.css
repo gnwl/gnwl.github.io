@@ -1,0 +1,134 @@
+body {
+    background-color: #ded8e3;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+}
+
+#maincontainer {
+	margin: 0 auto;
+}
+
+#header {
+	background-color: #ede8f1;
+	margin: 0 auto;
+	text-align: center;
+	overflow: auto;
+}
+
+#titlearea {
+	padding-top: 60px;
+	margin: 0 auto;
+	text-align: center;
+	overflow: auto;
+}
+
+#title {
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 42px;
+}
+
+#subtitle {
+	font-size:12px;
+}
+
+#gitbuttonarea {
+	padding-top: 40px;
+	padding-bottom: 30px;
+	width: 102px;
+	margin: 0 auto;
+	overflow: auto;
+}
+
+.gitbutton {
+	height: 26px;
+	border-radius: 2px;
+	border: 1px solid #d5d5d5;
+	background: linear-gradient(#fbfbfb, #eeeeee);
+	cursor: pointer;
+	font-size: 12px;
+	line-height: 26px;
+	float: left;
+}
+
+.gitbutton:hover {
+	background: linear-gradient(#ededed, #dddddd);
+}
+
+.giticon {
+	vertical-align: middle;
+}
+
+#eye {
+	width: 70px;
+}
+
+#star {
+	width: 60px;
+}
+
+#download {
+	width: 100px;
+}
+
+
+
+#notificationarea {
+	text-align: center;
+	padding-bottom: 30px;
+	color: #c60202;
+}
+
+
+
+
+
+
+
+
+
+
+
+#contentcontainer {
+	overflow: auto;
+	width: 900px;
+	padding-top: 60px;
+	margin: 0 auto;
+}
+
+#features {
+	width:400px;
+	float: left;
+}
+
+#screenshots {
+	text-align: center;
+	width:500px;
+	float: right;
+}
+
+#screenshot {
+	width: 490px;
+	border: 2px solid;
+}
+
+#screenshotblurb {
+	font-size: 12px;
+}
+
+
+
+
+#footer {
+	font-size: 10px;
+	text-align: center;
+	overflow: auto;
+	width: 1000px;
+	padding-top: 100px;
+	margin: 0 auto;
+	margin-bottom: 0px;
+}
