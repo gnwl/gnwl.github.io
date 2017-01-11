@@ -39,7 +39,7 @@ h1 {
 #gitbuttonarea {
 	padding-top: 40px;
 	padding-bottom: 30px;
-	width: 102px;
+	text-align: center;
 	margin: 0 auto;
 	overflow: auto;
 }
